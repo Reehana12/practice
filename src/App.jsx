@@ -13,9 +13,7 @@ function App() {
   }
   return (
     <div className="mybox">
-      <h1>Count:{count}</h1>
-      <Child increment={inc} decrement={dec}></Child>
-    </div>
+     
   );
 }
 
